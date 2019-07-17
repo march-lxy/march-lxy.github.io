@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 年龄：22
+#### Q Q：1056776386
+#### 微信：LXY0323666
+#### 电话号码：18111276829
+#### 邮箱地址：march.lxy97@gmail.com
+#### 居住地点：四川省成都市
 
-You can use the [editor on GitHub](https://github.com/march-lxy/thomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 技能水平
+1、熟悉HTML5、CSS3、JavaScript等Web前端开发技术，能手写符合W3C标准、兼容多种浏览器的前端页面代码；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2、熟悉运用jQuery库，可实现页面的基本特效；
 
-### Markdown
+3、了解Bootstrap、vuejs、reactjs等框架，了解XML、HTTP协议、Ajax异步请求等；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4、了解Apache服务器、MySQL数据库，能编写常用的sql语句，了解部分的php后端知识
 
-```markdown
-Syntax highlighted code block
+5、熟悉Sublime、VS、PS、fw等工具的使用
 
-# Header 1
-## Header 2
-### Header 3
+### 工作经验
 
-- Bulleted
-- List
+2018年1月-2019年6月
+成都瑞美泰科技有限责任公司（工业物流设备）  技术工程师
 
-1. Numbered
-2. List
+1、对外负责公司售前设备安装图纸设计，售中安装基础设计并与建造方沟通方案，售后设备安装、维修、保养。
+2、对内兼技术经理助理，协助经理完成相关报价流程，采购流程及各项技术文档进行编写、整理归纳。
+3、提供销售人员对客户销售流程中的所需售前、售后技术支持。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 教育背景
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2015年9月-2018年6月   
+四川电子机械职业技术学院       电子信息工程技术
+网页设计与网站建设、C语言程序设计、模拟电子技术、电工技术、高频电子线路。
 
-### Jekyll Themes
+### 自我评价
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/march-lxy/thomas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+作为开发者，我大部分空余时间都利用在学习和加强技术水平上，平时喜欢自己开发一些小东西自娱自乐，我相信世上只有时间是对任何人最公平的东西，作为一个从事技术行业的人，只有不断的努力，不断的去学习新知识、新技术，提高自己的技术水平才能不会被时间所埋没。
