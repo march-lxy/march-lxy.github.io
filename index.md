@@ -15,7 +15,7 @@
 
 3、了解Bootstrap、了解XML、HTTP协议、Ajax异步请求等；
 
-4、了解Apache服务器、MySQL数据库，能编写常用的sql语句，了解部分的php后端知识
+4、了解MySQL数据库，能编写常用的sql语句，了解部分的php后端知识
 
 5、熟悉Sublime、VS、PS、fw等工具的使用
 
