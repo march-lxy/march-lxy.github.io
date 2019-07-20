@@ -11,7 +11,7 @@
 ### 技能水平
 1、熟悉HTML5、CSS3、JavaScript等Web前端开发技术，能手写符合W3C标准、兼容多种浏览器的前端页面代码；
 
-2、熟悉运用jQuery库，可实现页面的基本特效；
+2、熟悉运用jQuery库，可实现页面的基本特效，熟悉Git分布式管理系统，熟悉github
 
 3、了解Bootstrap、了解XML、HTTP协议、Ajax异步请求等；
 
