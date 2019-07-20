@@ -6,7 +6,7 @@
 #### Q Q：1056776386
 #### 微信：LXY0323666
 #### 电话：18111276829
-#### 邮箱：march.lxy97@gmail.com
+#### 邮箱：march.lxy97@gmail.com & 1056776386@qq.com
 
 ### 技能水平
 1、熟悉HTML5、CSS3、JavaScript等Web前端开发技术，能手写符合W3C标准、兼容多种浏览器的前端页面代码；
