@@ -1,9 +1,10 @@
 ### 个人简历
 
 #### 刘昕宇
-#### 年龄：22   
+#### 年龄：22 
+#### 电话：18111276829
 #### Q Q：1056776386    &nbsp; &nbsp;微信：LXY0323666
-#### 电话：18111276829  &nbsp; &nbsp;邮箱：march.lxy97@gmail.com & 1056776386@qq.com
+#### 邮箱：march.lxy97@gmail.com & 1056776386@qq.com
 #### GitHub：https://github.com/march-lxy
 #### 个人主页：https://march-lxy.github.io/resume.github.io/
 <br>
