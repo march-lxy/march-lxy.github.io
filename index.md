@@ -13,7 +13,7 @@
 
 熟练HTML+CSS网页布局与样式,熟悉运用jQuery。
 
-熟悉vuejs、git、webpack，了解Bootstrap，了解es6、XML、HTTP协议、Ajax异步请求等。
+熟悉vuejs、git、webpack，了解Bootstrap，es6
 
 熟练运用Photoshop切图，编写习惯：vs code。
 
@@ -25,12 +25,11 @@
 
 **前端方面工作内容：**
 
-1.公司内部配件采购项目的部分重构（vue重构jQuery）
+1.公司官网部分内部升级<br>
+（增加了几个技术文档页面）
 <br> 
-2.公司内部后台管理系统部分重构（vue重构jQuery）
-<br> 
-  &nbsp;&nbsp;a.协助同事分析之前jq完成的功能；<br> 
-  &nbsp;&nbsp;b.对照以前的代码对应功能，重新封装部分组件；
+2.公司内部后台管理系统部分重构<br>
+（vue重构jQuery，重新封装部分组件）
 <br>  
 **其他工作内容：**
 <br>
