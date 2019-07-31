@@ -32,15 +32,15 @@
 5.协助经理进行公司设备技术方面的资料编写与汇总<br> 
 
 **项目**
-<>br
+<br>
 1.公司内部网站升级<br>
-html、css、js、jq <br>
+    html、css、js、jq <br>
 内容：<br>
 a.更改部分页面显示效果<br>
 b.增加产品页面
 <br>
 2.公司后台管理系统升级<br>
-html、css、js、jq、vue <br>
+    html、css、js、jq、vue <br>
 内容：<br>
 a.项目目的是vue重构jq<br>
 b.主要工作是写部分单页面子组件
