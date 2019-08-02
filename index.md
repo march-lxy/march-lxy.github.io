@@ -34,7 +34,7 @@
 **项目**
 <br><br>
 1.公司内部网站升级<br>
-    html、css、js、jq <br>
+    html、css、js、jq、bootstrap<br>
 内容：<br>
 a.更改部分页面显示效果<br>
 b.增加产品页面
