@@ -4,31 +4,29 @@
 #### 年龄：22 
 #### 电话：18111276829
 #### Q Q：1056776386    &nbsp; &nbsp;微信：LXY0323666
-#### 邮箱：march.lxy97@gmail.com & 1056776386@qq.com
+#### 邮箱：1056776386@qq.com
 #### GitHub：https://github.com/march-lxy
 #### 个人主页：https://march-lxy.github.io/resume.github.io/
 <br>
 
 ### 一、技能水平
 
-熟练HTML+CSS网页布局与样式,熟悉运用jQuery。
+HTML、css、js、less、sass、vue、uni、小程序...
 
-熟悉vuejs、git、webpack，了解Bootstrap，es6
-
-熟练运用Photoshop切图，编写习惯：vs code。
+echarts、bootstrap、element、layui...
 
 ### 二、经历
 
-**成都瑞美泰科技有限责任公司**  &nbsp;&nbsp;2019-06离职
+**成都瑞美泰科技有限责任公司**  &nbsp;&nbsp;2018.01---2019.06离职
 
-&nbsp;技术部经理助理&&技术工程师
+&nbsp;技术工程师
 
 **工作内容：**
 
 1.公司官网部分内部升级<br>
 2.公司内部后台管理系统部分重构<br>
 3.设备cad图纸制作<br>
-4.公司设备售后技术支持（维护，保养方面）<br> 
+4.公司设备售后技术支持<br> 
 5.协助经理进行公司设备技术方面的资料编写与汇总<br> 
 
 **项目**
