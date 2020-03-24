@@ -1,26 +1,29 @@
 ### 个人简历
 
-#### 刘昕宇 &nbsp;23岁
-#### 期望薪资：7-10k
-#### 电话：18111276829
-#### Q Q：1056776386  
-#### 微信：LXY0323666
-#### QQ邮箱：1056776386@qq.com
-#### Gmail：march.lxy97@gmail.com
-#### GitHub：https://github.com/march-lxy
-#### 个人主页：https://march-lxy.github.io/resume.github.io/
+**刘昕宇 &nbsp;23岁**
+**期望薪资：**7-10k
+**电话：**18111276829
+**Q Q：**1056776386  
+**微信：**LXY0323666
+**QQ邮箱：**1056776386@qq.com
+**Gmail：**march.lxy97@gmail.com
+ **GitHub：**https://github.com/march-lxy
+**个人主页：**https://march-lxy.github.io/resume.github.io/
 <br>
+
 ### 一、技能水平
 1、熟练掌握前端Vuejs、uniapp、JS/jquery、CSS3、 sass/less、ES6/8、git、微信小程序开发等前端常用技术，熟悉高德地图、百度地图api文档<br>
 2、熟悉elementUI、bootstrap、layui、echarts…UI框架<br>
 3、充实的2年工作经验，开发过网站、平台、混合app、后台管理系统、单页面web应用，工组中接触了丰富的前端业务，有多端开发经验<br>
 4、1个长期性质的大型项目参与开发，4个1-3月开发周期的中等应用独立开发，多个开发时长一周左右的小型项目独立开发<br>
 5、对前端常用数据结构与算法有一定了解<br>
+
 ### 二、经历
 **成都瑞美泰科技有限责任公司**  &nbsp;&nbsp;2018.01---2019.06 &nbsp;&nbsp;技术工程师<br>
 **工作内容：**
 公司内部软件开发及维护（网站开发、app开发、web单页面应用开发、后台管理系统开发）
 <br><br>
+
 **四川艾贝斯科技科技发展有限公司**  &nbsp;&nbsp;2019.08---2020.03 &nbsp;&nbsp;前端工程师<br>
 **工作内容：**
 负责公司物联网平台的日常维护及新功能开发、app多端开发、定制化物联网平台开发、网站开发、web单页面应用开发、设备后台管理系统开发
